@@ -1,5 +1,6 @@
-# sites-i-like
-Some sites I like
+# Some sites I like
+Here are some good refence sites that I tend to send people when they have questions on a certian topic
+
 - https://css-tricks.com/
 - https://regexr.com/
 - https://badssl.com/
